@@ -1,4 +1,4 @@
-object Hamming extends App {
+object Hamming {
 
   def compareDNA(a: String, b: String): Int = {
     assert(a.length == b.length)
@@ -10,6 +10,4 @@ object Hamming extends App {
       }
     }
   }
-
-  println(compareDNA("abc", "abcd"))
 }
