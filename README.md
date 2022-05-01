@@ -22,9 +22,9 @@ The Hamming Distance is useful for lots of things in science, not just biology, 
 
 The Hamming distance is only defined for sequences of equal length, so an attempt to calculate it between sequences of different lengths should not work.
 
----
-Exercise rules & description: [link](https://exercism.org/tracks/scala/exercises/hamming)
+Description adapted from: [source](https://exercism.org/tracks/scala/exercises/hamming)
 
+---
 ### Table of contents
 ##### Scala Coding Problems
 1. [Letter value sum](https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-1)
